@@ -1,82 +1,41 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:30363d&section=header&text=fakem1nk&fontSize=56&fontColor=e6edf3&fontAlignY=36&animation=fadeIn&desc=DevOps%20%C2%B7%20Linux%20%C2%B7%20Python&descSize=16&descAlignY=58&descAlign=50" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Frost+Children+%E2%9D%84%EF%B8%8F;Full-stack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Python+%C2%B7+TypeScript+%C2%B7+Local+LLM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA+%C2%B7+%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D1%81%D0%B5%D1%82%D0%B8;%D0%98%D1%89%D1%83+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83+%D0%B2+DevOps;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BA%D0%B5" alt="typing" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open_to_work-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/format-remote-30363d?style=flat-square" />
 
 </div>
 
----
+<br/>
 
-### ❄️ Обо мне
+### Обо мне
 
-- 🎓 Специальность — **компьютерные сети и телекоммуникации**
-- 🛠 Пишу full-stack приложения: **FastAPI** на бэкенде, **React + TypeScript** на фронте
-- 🤖 Интересуюсь **локальными LLM**, RAG и семантическим поиском — всё на своём сервере, без облаков
-- 🐳 Разворачиваю всё в **Docker Compose** одной командой
+```yaml
+nick:      fakem1nk
+education: выпускник, компьютерные сети и телекоммуникации
+looking:   DevOps · удалённо
+workflow:  ускоряю разработку, работая в паре с AI-агентом
+```
 
----
+### Инструменты
 
-### 🧰 Стек
-
-**Backend**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
 </p>
 
-**Frontend**
+### Связь
+
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <a href="https://t.me/indiehellper"><img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="mailto:dejokey@mail.ru"><img src="https://img.shields.io/badge/dejokey@mail.ru-0d1117?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/cal1forniaboy-0d1117?style=flat-square&logo=discord&logoColor=5865F2" />
 </p>
 
-**AI & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📌 Проекты
-
-<table>
-  <tr>
-    <td>
-      <h4><a href="https://github.com/fakem1nk/Archivarius_AI">📚 Archivarius AI</a></h4>
-      Self-hosted гибридная система управления документами (DMS) — дипломная работа.<br/><br/>
-      🔍 Гибридный поиск: PostgreSQL FTS + pgvector (RRF)<br/>
-      💬 RAG-чат по архиву со ссылками на источники<br/>
-      🌿 Git-подобное версионирование с автокоммитом от LLM<br/>
-      🏷 Автоклассификация документов локальной моделью<br/>
-      🔒 Все данные и модели остаются на сервере<br/><br/>
-      <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Ollama</code> <code>Docker</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Статистика
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fakem1nk&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakem1nk&layout=compact&theme=tokyonight&hide_border=true&locale=ru" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fakem1nk&theme=tokyonight&hide_border=true&locale=ru" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakem1nk&color=7dd3fc&style=flat-square&label=Просмотры+профиля" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30363d,100:0d1117&section=footer" />
