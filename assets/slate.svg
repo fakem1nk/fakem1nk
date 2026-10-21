@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:'SF Mono', ui-monospace, Consolas, 'Courier New', monospace}
+.clap{transform-origin:24px 80px;animation:clap 1.1s cubic-bezier(.5,0,.2,1) .3s both}
+@keyframes clap{0%{transform:rotate(-16deg)}55%{transform:rotate(0)}70%{transform:rotate(-2deg)}100%{transform:rotate(0)}}
+.r{animation:rise 1.2s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="stripes" width="110" height="60" patternUnits="userSpaceOnUse" patternTransform="skewX(-35)">
+<rect width="110" height="60" fill="#050505"/><rect width="55" height="60" fill="#f5f5f7"/>
+</pattern>
+<pattern id="stripes2" width="110" height="60" patternUnits="userSpaceOnUse" patternTransform="skewX(35)">
+<rect width="110" height="60" fill="#050505"/><rect width="55" height="60" fill="#f5f5f7"/>
+</pattern>
+<filter id="grain" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/>
+<feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/>
+</filter>
+<clipPath id="body"><rect x="0" y="96" width="1200" height="484" rx="24"/></clipPath>
+</defs>
+
+<!-- hinged clapper stick -->
+<g class="clap">
+<rect x="0" y="24" width="1200" height="56" rx="12" fill="url(#stripes2)"/>
+<rect x="0" y="24" width="1200" height="56" rx="12" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+</g>
+
+<!-- board -->
+<g clip-path="url(#body)">
+<rect x="0" y="96" width="1200" height="484" fill="#050505"/>
+<rect x="0" y="96" width="1200" height="56" fill="url(#stripes)"/>
+<rect x="-40" y="56" width="1280" height="564" filter="url(#grain)">
+<animateTransform attributeName="transform" type="translate" values="0 0;-19 12;14 -8;-7 -17" dur=".5s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+
+<g class="mono" font-size="15" letter-spacing="3" fill="#8e8e93">
+<text x="60" y="200">SCENE 01 — ABOUT</text>
+<text x="1140" y="200" text-anchor="end">TAKE 1</text>
+</g>
+<line x1="60" y1="222" x2="1140" y2="222" stroke="#fff" stroke-opacity=".18"/>
+
+<g font-size="24" fill="#f5f5f7">
+<g class="r" style="animation-delay:.9s">
+<text class="mono" x="60" y="270" font-size="14" letter-spacing="3" fill="#8e8e93">NAME</text>
+<text x="300" y="272" font-weight="600">fakem1nk</text></g>
+<g class="r" style="animation-delay:1.0s">
+<text class="mono" x="60" y="318" font-size="14" letter-spacing="3" fill="#8e8e93">ROLE</text>
+<text x="300" y="320">DevOps — open to work, remote</text></g>
+<g class="r" style="animation-delay:1.1s">
+<text class="mono" x="60" y="366" font-size="14" letter-spacing="3" fill="#8e8e93">SCHOOL</text>
+<text x="300" y="368">Pacific National University · Polytechnic Institute</text></g>
+<g class="r" style="animation-delay:1.2s">
+<text class="mono" x="60" y="414" font-size="14" letter-spacing="3" fill="#8e8e93">DIVISION</text>
+<text x="300" y="416">Higher School of Cybernetics &amp; Digital Technologies</text></g>
+<g class="r" style="animation-delay:1.3s">
+<text class="mono" x="60" y="462" font-size="14" letter-spacing="3" fill="#8e8e93">MAJOR</text>
+<text x="300" y="464">Computer Networks &amp; Telecommunications</text></g>
+<g class="r" style="animation-delay:1.4s">
+<text class="mono" x="60" y="510" font-size="14" letter-spacing="3" fill="#8e8e93">TOOLS</text>
+<text x="300" y="512">Linux · Python · Git<tspan class="cur" fill="#8e8e93"> ▍</tspan></text></g>
+</g>
+</g>
+<rect x="1" y="97" width="1198" height="482" rx="23" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
+</svg>

@@ -1,28 +1,44 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="fakem1nk — Сети. Linux. Автоматизация." />
+<img src="assets/header.svg" width="100%" alt="fakem1nk — Networks. Linux. Automation." />
 
 <br/><br/>
 
-<h3>Обо мне</h3>
+Graduate of **Pacific National University** (Polytechnic Institute,<br/>
+Higher School of Cybernetics and Digital Technologies), major in **Computer Networks & Telecommunications**.<br/>
+Looking for a **DevOps** role — remote works great.
 
-Выпускник **ТОГУ (Политех)** — Высшая школа кибернетики и цифровых технологий,<br/>
-направление «Компьютерные сети и телекоммуникации».
+I build small apps for my own needs together with an **AI coding agent**:<br/>
+I own the problem and the decisions, the agent helps me get to a working result faster.
 
 <br/>
 
-<h3>Инструменты</h3>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="assets/slate.svg" width="100%" alt="NAME fakem1nk · ROLE DevOps, open to work, remote · SCHOOL Pacific National University, Polytechnic Institute · MAJOR Computer Networks & Telecommunications · TOOLS Linux, Python, Git" />
 
 <br/><br/>
 
-<h3>Связь</h3>
+**Let’s talk**
 
-<a href="https://t.me/indiehellper"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:dejokey@mail.ru"><img src="https://img.shields.io/badge/dejokey@mail.ru-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/cal1forniaboy-000000?style=for-the-badge&logo=discord&logoColor=white" />
+[Telegram](https://t.me/indiehellper) &nbsp;·&nbsp; [dejokey@mail.ru](mailto:dejokey@mail.ru) &nbsp;·&nbsp; Discord: `cal1forniaboy`
+
+<br/>
+
+<details>
+<summary><b>Русская версия</b></summary>
+
+<br/>
+
+Выпускник **ТОГУ** (Политехнический институт,<br/>
+Высшая школа кибернетики и цифровых технологий), направление **«Компьютерные сети и телекоммуникации»**.<br/>
+Ищу работу в **DevOps**, удалённый формат — отлично.
+
+Делаю небольшие приложения для своих задач в паре с **AI‑агентом**:<br/>
+задача и решения — мои, агент помогает быстрее дойти до рабочего результата.
+
+**Инструменты:** Linux · Python · Git
+
+**Связь:** [Telegram](https://t.me/indiehellper) · [dejokey@mail.ru](mailto:dejokey@mail.ru) · Discord: `cal1forniaboy`
+
+</details>
 
 </div>
