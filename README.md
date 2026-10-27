@@ -10,7 +10,7 @@ Looking for a **DevOps** role — remote works great.
 
 <br/>
 
-<img src="assets/slate.svg" width="100%" alt="NAME Komoza Alexey · ROLE DevOps, open to work, remote · SCHOOL Pacific National University, Polytechnic Institute · MAJOR Computer Networks & Telecommunications · TOOLS Linux, Python, Git" />
+<img src="assets/slate.svg" width="100%" alt="NAME Komoza Alex · ROLE DevOps, open to work, remote · SCHOOL Pacific National University, Polytechnic Institute · MAJOR Computer Networks & Telecommunications · TOOLS Linux, Python, Git" />
 
 <br/><br/>
 
